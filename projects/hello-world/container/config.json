@@ -24,8 +24,8 @@
     },
     "forward_stats": true,
     "snapshot_sync": {
-        "sleep": 15,
-        "batch_size": 15
+        "sleep": 5,
+        "batch_size": 50
     },
     "containers": [
         {

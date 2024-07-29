@@ -3,7 +3,7 @@
 
 # anvil's third default address
 sender := YOUR_PRIVATE_KEY
-RPC_URL := https://base-rpc.publicnode.com/
+RPC_URL := YOUR_RPC
 
 # deploying the contract
 deploy:
